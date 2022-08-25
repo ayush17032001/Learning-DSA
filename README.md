@@ -1,2 +1,2 @@
-# Learning-DSA
-All learnings of my dsa 
+#Java project
+Music player app
